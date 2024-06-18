@@ -1,5 +1,8 @@
 # Aircraft Take-Off Weight Prediction
 
+## About me
+I am an aspiring Data Scientist and this project is part of my journey to gain practical experience in data analysis and machine learning. I welcome feedback and suggestions for improvement. Feel free to reach out or contribute to this project!
+
 ## Project Goal
 The goal of this project is to develop a regression model that predicts the Take-Off Weight (TOW) of an aircraft based on various flight and operational parameters.
 
